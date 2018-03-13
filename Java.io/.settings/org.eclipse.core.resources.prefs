@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
+encoding//src/demoreader/DemoReader.java=UTF-8
 encoding//src/demoreader/input.txt=UTF-8
+encoding//src/demowriter/ObjectInputExample.java=UTF-8
+encoding//src/demowriter/ObjectOutputExample.java=UTF-8
